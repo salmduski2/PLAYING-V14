@@ -28,5 +28,5 @@ console.log(err)
 });
 
 
-client.login("TOKENBOT")
+client.login("MTA2NzU3Mjg1ODI5NDg5ODY5OQ.G32mBP.y1l6O2ahlDzHvarqBAs3cjzobv4WI9nDXj4RZc")
 // All Copyright By SmSm
